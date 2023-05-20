@@ -1,14 +1,14 @@
-StriXInteractive Event Channels
+StriX Interactive Event Channels
 ===============================
 
-The StriXInteractive Event Channel system provides a way to manage and communicate events in Unity games. It consists of several scripts that offer the following functionalities:
+The StriX Interactive Event Channel system provides a way to manage and communicate events in Unity games. It consists of several scripts that offer the following functionalities:
 
 *   `GenericEventChannelSO<T>`: An abstract class that serves as the base for specific event channel scripts. It allows creating and triggering events with a parameter of type `T`.
 
 Supported Types
 ---------------
 
-The StriXInteractive Event Channel system supports various types of events. You can create an event channel for any of the following types:
+The StriX Interactive Event Channel system supports various types of events. You can create an event channel for any of the following types:
 
 *   `float`: A floating-point value.
 *   `string`: A text string.
@@ -21,7 +21,7 @@ The StriXInteractive Event Channel system supports various types of events. You 
 Usage
 -----
 
-To use the StriXInteractive Event Channel system in your Unity project, follow these steps:
+To use the StriX Interactive Event Channel system in your Unity project, follow these steps:
 
 1.  Add the scripts to your Unity project.
 2.  Create a class that inherits from `GenericEventChannelSO<T>` to define an event channel for your desired type. Use the `RaiseEvent` method to trigger an event with the corresponding parameter.
