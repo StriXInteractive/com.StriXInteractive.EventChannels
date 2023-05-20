@@ -9,7 +9,6 @@
     "author": "Christian Schamara",
     "license": "MIT",
     "dependencies": {
-      "unity-engine": "^1.0.0",
-      "unity-events": "^1.0.0"
+      
     }
   }
