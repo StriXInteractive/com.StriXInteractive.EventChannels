@@ -1,6 +1,6 @@
 {
     "name": "com.strixinteractive.eventchannels",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "displayName": "ScriptableObject EventChannels",
     "description": "Powerful event management system for Unity games. Handle and communicate events easily with support for various types. Enhance interactivity and modularity in your projects.",
     "unity": "2019.1",
